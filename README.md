@@ -1,4 +1,4 @@
-# 🌍 TRANSORA — AI-Powered Language Translation Platform
+# TRANSORA — AI-Powered Language Translation Platform
 
 <p align="center">
 
@@ -13,11 +13,11 @@
 
 ---
 
-# 📌 Overview
+# Overview
 
-**TRANSORA** is a modern AI-powered multilingual language translation platform built using **Python**, **Streamlit**, and **Google Translation Engine**.
+TRANSORA is a modern AI-powered multilingual language translation platform built using Python, Streamlit, and Google Translation Engine.
 
-The application allows users to instantly translate text across **100+ languages** through a clean and responsive web interface with real-time translation support, auto language detection, copy/download functionality, and a modern UI experience.
+The application allows users to instantly translate text across 100+ languages through a clean and responsive web interface with real-time translation support, auto language detection, copy/download functionality, and a modern UI experience.
 
 This project demonstrates:
 - Full-stack AI web application development
@@ -29,9 +29,9 @@ This project demonstrates:
 
 ---
 
-# ✨ Features
+# Features
 
-## 🌐 Translation Features
+## Translation Features
 - Translate text across 100+ languages
 - Auto language detection
 - Real-time AI-powered translation
@@ -41,7 +41,7 @@ This project demonstrates:
 
 ---
 
-## 🎨 UI/UX Features
+## UI/UX Features
 - Modern premium UI
 - Responsive layout
 - Gradient theme design
@@ -52,7 +52,7 @@ This project demonstrates:
 
 ---
 
-## ⚡ Functional Features
+## Functional Features
 - Accurate live character counter
 - Copy translated text
 - Download translated output
@@ -62,7 +62,7 @@ This project demonstrates:
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
 User
@@ -82,7 +82,7 @@ Frontend Rendering
 
 ---
 
-# 🔄 High-Level Pipeline
+# High-Level Pipeline
 
 ```text
 User Input
@@ -102,7 +102,7 @@ Output Rendering
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
 | Category | Technologies Used |
 |---|---|
@@ -116,7 +116,7 @@ Output Rendering
 
 ---
 
-# 📦 Python Libraries Used
+# Python Libraries Used
 
 ```python
 streamlit
@@ -126,7 +126,7 @@ pyperclip
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 TRANSORA/
@@ -139,71 +139,15 @@ TRANSORA/
 
 ---
 
-# 🚀 Installation & Setup
+# Live Deployment
 
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/transora-language-translator.git
-```
-
----
-
-## 2️⃣ Navigate to Project Folder
-
-```bash
-cd transora-language-translator
-```
-
----
-
-## 3️⃣ Create Virtual Environment
-
-```bash
-python -m venv venv
-```
-
----
-
-## 4️⃣ Activate Virtual Environment
-
-### Windows
-```bash
-venv\Scripts\activate
-```
-
-### Mac/Linux
-```bash
-source venv/bin/activate
-```
-
----
-
-## 5️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 6️⃣ Run the Application
-
-```bash
-streamlit run app.py
-```
-
----
-
-# 🌍 Live Deployment
-
-## 🔗 Live App
+## Live App
 https://your-streamlit-app-link.streamlit.app
 
-### ⚠️ Note
-This application is hosted on the **free tier of Streamlit Community Cloud**.
+### Note
+This application is hosted on the free tier of Streamlit Community Cloud.
 
-If the app remains inactive for approximately **13–15 minutes**, Streamlit automatically puts it to sleep.
+If the app remains inactive for approximately 13–15 minutes, Streamlit automatically puts it to sleep.
 
 When opening the app again, you may see a button like:
 
@@ -215,9 +159,9 @@ Simply click that button and wait a few seconds for the application to restart.
 
 ---
 
-# 📸 UI Preview
+# UI Preview
 
-## Main Interface Includes:
+Main Interface Includes:
 - Input Text Box
 - Translated Output Box
 - Language Selection
@@ -227,7 +171,7 @@ Simply click that button and wait a few seconds for the application to restart.
 
 ---
 
-# 🔥 Core Functional Modules
+# Core Functional Modules
 
 | Module | Description |
 |---|---|
@@ -241,20 +185,7 @@ Simply click that button and wait a few seconds for the application to restart.
 
 ---
 
-# 🛠️ Challenges Solved
-
-## Major Engineering Challenges
-- Streamlit rerun behavior
-- Session state synchronization
-- Character count accuracy
-- UI/backend integration
-- Real-time output rendering
-- Disabled textarea styling
-- Unicode text handling
-
----
-
-# 💡 Key Learnings
+# Key Learnings
 
 Through this project I learned:
 - Full-stack AI web development
@@ -267,25 +198,25 @@ Through this project I learned:
 
 ---
 
-# 📈 Future Improvements
+# Future Improvements
 
 ## Planned Upgrades
-- 🎤 Voice Translation
-- 📄 PDF/DOCX Translation
-- 🖼️ OCR Image Translation
-- 🌙 Dark Mode
-- 🔐 Authentication System
-- 📜 Translation History
-- ⚡ Real-Time Typing Translation
-- 🤖 AI Grammar Correction
-- 🧠 Context-Aware Translation
-- 📱 Mobile Optimization
-- 🗂️ Export to PDF/DOCX
-- ☁️ FastAPI Backend Integration
+- Voice Translation
+- PDF/DOCX Translation
+- OCR Image Translation
+- Dark Mode
+- Authentication System
+- Translation History
+- Real-Time Typing Translation
+- AI Grammar Correction
+- Context-Aware Translation
+- Mobile Optimization
+- Export to PDF/DOCX
+- FastAPI Backend Integration
 
 ---
 
-# 🎯 Sample Use Cases
+# Sample Use Cases
 
 | Use Case | Description |
 |---|---|
@@ -298,7 +229,7 @@ Through this project I learned:
 
 ---
 
-# 🔐 Scalability Improvements
+# Scalability Improvements
 
 Future production architecture:
 
@@ -316,7 +247,7 @@ Cloud Infrastructure
 
 ---
 
-# 🧪 Example Translation Workflow
+# Example Translation Workflow
 
 ```text
 Input:
@@ -334,7 +265,7 @@ Output:
 
 ---
 
-# 🌟 Why This Project Matters
+# Why This Project Matters
 
 TRANSORA demonstrates:
 
@@ -350,40 +281,8 @@ This project bridges the gap between AI services and user-friendly real-world ap
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 ## Prateek Tiwari
 
 AI/ML Enthusiast • Full Stack Learner • Software Developer
-
----
-
-# 📬 Connect With Me
-
-## GitHub
-https://github.com/your-username
-
-## LinkedIn
-https://linkedin.com/in/your-profile
-
----
-
-# ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-# ❤️ Built With
-
-- Python
-- Streamlit
-- Deep Translator
-- Google Translation Engine
-- Modern UI/UX Principles
