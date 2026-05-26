@@ -185,19 +185,6 @@ Main Interface Includes:
 
 ---
 
-# Key Learnings
-
-Through this project I learned:
-- Full-stack AI web development
-- API integration
-- Session state management
-- Real-time frontend/backend communication
-- Deployment workflow
-- UI debugging & optimization
-- Responsive design implementation
-
----
-
 # Future Improvements
 
 ## Planned Upgrades
@@ -285,4 +272,4 @@ This project bridges the gap between AI services and user-friendly real-world ap
 
 ## Prateek Tiwari
 
-AI/ML Enthusiast • Full Stack Learner • Software Developer
+AI/ML Enthusiast
